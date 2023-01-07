@@ -13,6 +13,14 @@ For the software, our group used python programming language to implement the co
 #### Outcomes of the system
 
 ### Tasks and Estimated Costs
+| Task |  Estimated Costs | Notes |
+|-----|----|----|
+|   Server Maintenance         |$24000                         |  Monthly Cloud Server      |      
+|   Construction supervision   |$30000                         | Supervision on the project | 
+|   Cultural resources         |$72000                         |  Investigate and evaluate undertaking                                                 |                              |
+|   Equipment and equipment use|$800                           | Equipment preparation and setup                                                       |                              |
+|   Project signs              |$400                           |  Installation of project signs     |                            |
+|   TOTAL                      |$127200                        |  Estimated     |                              |
 
 ### Milestone Chart
 
