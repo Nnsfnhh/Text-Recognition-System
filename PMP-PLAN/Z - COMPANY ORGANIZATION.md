@@ -1,4 +1,6 @@
 # ABOUT Ravenclaw Inc
+![Company logo](https://user-images.githubusercontent.com/121240811/211163414-45b654d9-393c-4861-a577-45587e74e34d.jpg)
+
 This company is setup by a group of AI enthusiastic students in UTeM. They are passionate in AI software and products and hope to bring AI closer to everyone in the world.
 
 Based in Malaysia, Malacca. 
