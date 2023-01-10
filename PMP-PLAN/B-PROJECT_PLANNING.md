@@ -42,7 +42,7 @@ A work breakdown structure (WBS) is created to map all the necessary tasks and d
   <br><br>
 PMO: engages in multiple aspects of the project, has a broad perspective, and is generally aware of potential hazards before they are identified as such. They can also perform as a contact between the Risk Managers and their staff when required. 
   <br><br>
- Scheduler: is accountable for scheduling and assists in identifying risks using the V-cycle method. The diagnosis of critical routes, negative margins or the removal of margins, unpredictability of deliverable dates, and/or the identification of a lack of resources are all potential sources of risk. The cost controller defines and monitors the project's costs. Using the Risk Manager's knowledge, Risk Manager also analyse the financial planning, including budget contingencies for risks and the cost of risk management plans.
+ Scheduler: is accountable for scheduling and assists in identifying risks using the V-cycle method. The diagnosis of critical routes, negative margins or the removal of margins, unpredictability of deliverable dates, and/or the identification of a lack of resources are all potential sources of risk. The cost controller defines and monitors the project's costs. Using the Risk Manager's knowledge, Risk Manager also analyse the financial planning, including budget contingencies for risks and the cost of risk management plans.|
 
                                                  |                              |
 |   Equipment and equipment use|$800                           | Equipment preparation and setup                                                       |                              |
