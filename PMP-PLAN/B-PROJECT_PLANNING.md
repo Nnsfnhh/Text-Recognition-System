@@ -2,7 +2,7 @@
 ## B. PLANNING THE PROJECT
 
 ### Scope
-  The scope of our product Deep Text Recognition or optical character recognition which perform on a grid infrastructure, is to give users an effective and improved software tool for document processing by reading and identifying characters in research, academic, governmental, and marketing business organisations that have a large pool of documented, scanned images. Regardless of the size or kind of characters in a document, the product recognises them, searches for them, and processes them more quickly in accordance with environmental requirements. 
+  The scope of our product Text Recognition or optical character recognition which perform on a grid infrastructure, is to give users an effective and improved software tool for document processing by reading and identifying characters in research, academic, governmental, and marketing business organisations that have a large pool of documented, scanned images. Regardless of the size or kind of characters in a document, the product recognises them, searches for them, and processes them more quickly in accordance with environmental requirements. 
   The primary objective is to speed the character recognition process in document processing. As a result, the system is able to handle a large number of documents in less time, thereby saving time. Due to the fact that our character identification is built on a grid infrastructure, it tries to recognise several heterogeneous characters that belong to separate global languages with three distinct font attributes and alignments.
 
 ### Project Management Life cycle
@@ -35,6 +35,7 @@ A work breakdown structure (WBS) is created to map all the necessary tasks and d
 | Control Element |  What is likely to go wrong? | How and when will I know? | What will I do about it? | 
 |-----|----|----|----|
 |Quality<br><br>(Poor attitude toward quality; substandard design, materials, and workmanship; inadequate quality assurance program)| 1.	The procedure is not entirely exact; some errors were produced when using the method.<br><br>2.	During this procedure, the image quality may be lost.| How: The output result always segmented the wrong part of the Text Recognition<br><br>When:The quality issue will be identified during the phase of unit testing.| Assign one member to continue daily data collection and grow the dataset until a satisfactory result is achieved.|
+|Cost<br><br>(Estimating errors; inadequate productivity, cost, change, or contingency)| 1.	Contingency:   If a developer forgets to shut off a computer, the server's expenses will increase. <br><br> 2.	Inadequate productivity:  One of the team members was ill. | How: The monthly bills detail any unanticipated extra charges.<br><br>When: The issue will most likely be discovered during project execution and implementation. | Notify the owner via email or Discord anytime the AWS cloud service budget exceeds the threshold.|
 
 
 
