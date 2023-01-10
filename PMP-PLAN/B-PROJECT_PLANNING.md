@@ -31,7 +31,6 @@ A work breakdown structure (WBS) is created to map all the necessary tasks and d
 
 ### Roles for Responsibilities Task
 <br>
-### Tasks and Estimated Costs
 
 | Role |  Person in charge | Responsibilities |
 |-----|----|----|
@@ -46,11 +45,5 @@ A work breakdown structure (WBS) is created to map all the necessary tasks and d
 |Stakeholder Coordinator manager | Safinah | The Stakeholder Coordinator is in charge of conducting research on available speaking and event opportunities, managing a database of those opportunities, and making recommendations for project team members as necessary. Support reporting, assessment, and analysis, as well as dashboard upkeep, in collaboration with important project team members. Cooperate with each member of the project team. <br><br>The Stakeholder Coordinator is in charge of conducting research on available speaking and event opportunities, managing a database of those opportunities, and making recommendations for project team members as necessary. Support reporting, assessment, and analysis, as well as dashboard upkeep, in collaboration with important project team members. Cooperate with each member of the project team.<br><br>The coordinator addresses stakeholder-related issues and makes sure that they are resolved in a timely manner in addition to managing crucial continuous stakeholder interactions. By creating and managing the section of the issue and escalation process that pertains to the stakeholders, the coordinator controls stakeholder issues. In meetings and reports, the stakeholder coordinator informs the affected stakeholders of risks and challenges. Stakeholder coordinator works with project schedule to arrange stakeholder schedules for planning and implementation activities.<br><br>The sensitive information of a stakeholder must be secure at this position and only available to the project's key personnel. The stakeholder coordinator must prioritise those who are significant to us and work to secure their financial or other support for our project.|
 |    Project Scheduler  |  Anissya        | The Project Scheduler is responsible for developing, maintaining, and managing project schedules. Creates a resource utilization model and forecasts. Develops, evaluates, and improves project schedules in collaboration with team leaders. The Project Scheduler will engage in the formulation and oversight of development- and construction-related project schedules within a cross-functional team context. You will work with a team of professionals to provide great service as a highly driven individual with excellent organisational, technical, and communication abilities. The "ideal" candidate will have a history in renewable energy and bring with them project management and technical competence that can be developed within Potential, while candidates from different backgrounds are invited to apply. |
 
-<br><br>
 
-
-
-
-
-<br><br><br>
 ##### Next: [Project Implementation](C-PROJECT_IMPLEMENTATION.md)
