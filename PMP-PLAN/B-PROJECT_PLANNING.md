@@ -32,9 +32,8 @@ A work breakdown structure (WBS) is created to map all the necessary tasks and d
 ### Roles for Responsibilities Task
 <br>
 | Task |  Estimated Costs | Notes |
-|-----|----|
-|   a        |b                         |    c
-|   a        |c                         |    c
+|-----|----|----|
+|   Server Maintenance         |$24000                         |  Monthly Cloud Server      |     |
 <br><br>
 
 
