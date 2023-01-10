@@ -1,7 +1,9 @@
 # F. PROJECT PRESENTATION
 ## Below are the project presentation by
 
-| Left-aligned | Center-aligned | Right-aligned |
-| :---         |     :---:      |          ---: |
-| git status   | git status     | git status    |
-| git diff     | git diff       | git diff      |
+| Demonstration Image | Output | 
+| :---         |     :---:      |  
+| A   | git status     | 
+| A     | THOMSON HOSPITAL KOTA DAMANSARA |
+| A   | Discussion : from the difference equation, we can find out the case impulse responses of the various systems here    | 
+ 
