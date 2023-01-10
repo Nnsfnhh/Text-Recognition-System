@@ -39,7 +39,6 @@ A work breakdown structure (WBS) is created to map all the necessary tasks and d
 |   Equipment and equipment use|$800                           | Equipment preparation and setup                                                       |                              |
 |   Project signs              |$400                           |  Installation of project signs     |                            |
 |   TOTAL                      |$127200                        |  Estimated     |                              |
-
 <br><br>
 
 
