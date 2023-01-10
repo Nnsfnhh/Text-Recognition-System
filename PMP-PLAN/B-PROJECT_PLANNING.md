@@ -31,9 +31,11 @@ A work breakdown structure (WBS) is created to map all the necessary tasks and d
 
 ### Roles for Responsibilities Task
 <br>
-| Task |  Estimated Costs | Notes |
-|-----|----|----|
-|   Server Maintenance         |$24000                         |  Monthly Cloud Server      |     |
+| Left-aligned | Center-aligned | Right-aligned |
+| :---         |     :---:      |          ---: |
+| git status   | git status     | git status    |
+| git diff     | git diff       | git diff      |
+
 <br><br>
 
 
