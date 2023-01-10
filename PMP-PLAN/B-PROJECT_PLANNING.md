@@ -33,9 +33,11 @@ A work breakdown structure (WBS) is created to map all the necessary tasks and d
 <br>
 ### Tasks and Estimated Costs
 
-| Task |  Estimated Costs | Notes |
+| Role |  Person in charge | Responsibilities |
 |-----|----|----|
-|   Server Maintenance         |$24000                         |  Monthly Cloud Server      |      
+|   Project manager         |Safinah                         |  Project managers are responsible for projects from inception to completion, ensuring that the job is completed efficiently and satisfactorily. As project managers with ever-changing daily schedules, it would be challenging to come across a static project manager job description. Planning the project procedure, generating a budget, managing a staff, and engaging with clients can fill the days. 
+
+Text Recognition Project will need to the project manager in charge of project planning, execution, monitoring, and control. It is expected that project managers would deliver projects on time, within budget, and within scope while maintaining communication with all team members. Beginning to end, project managers are involved in multiple aspects of the project's progress. The project manager is responsible for ensuring that all initiation and planning documents, including the Work Breakdown Structure (WBS) and Gantt chart Text recognition Project, are produced in a clear and comprehensive manner.|      
 |   Construction supervision   |$30000                         | Supervision on the project | 
 |   Cultural resources         |$72000                         |  Investigate and evaluate undertaking                                                 |                              |
 |   Equipment and equipment use|$800                           | Equipment preparation and setup                                                       |                              |
