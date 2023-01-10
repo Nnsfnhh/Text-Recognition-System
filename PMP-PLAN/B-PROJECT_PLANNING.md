@@ -31,10 +31,15 @@ A work breakdown structure (WBS) is created to map all the necessary tasks and d
 
 ### Roles for Responsibilities Task
 <br>
-| Left-aligned | Center-aligned | Right-aligned |
-| :---         |     :---:      |          ---: |
-| git status   | git status     | git status    |
-| git diff     | git diff       | git diff      |
+### Tasks and Estimated Costs
+| Task |  Estimated Costs | Notes |
+|-----|----|----|
+|   Server Maintenance         |$24000                         |  Monthly Cloud Server      |      
+|   Construction supervision   |$30000                         | Supervision on the project | 
+|   Cultural resources         |$72000                         |  Investigate and evaluate undertaking                                                 |                              |
+|   Equipment and equipment use|$800                           | Equipment preparation and setup                                                       |                              |
+|   Project signs              |$400                           |  Installation of project signs     |                            |
+|   TOTAL                      |$127200                        |  Estimated     |                              |
 
 <br><br>
 
