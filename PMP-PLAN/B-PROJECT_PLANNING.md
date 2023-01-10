@@ -29,5 +29,23 @@ A work breakdown structure (WBS) is created to map all the necessary tasks and d
 <img width="1000" alt="RAM_3" src="https://user-images.githubusercontent.com/94028277/211458302-495c0634-99ee-407f-b416-5041e1c50530.png">
 <img width="1000" alt="RAM_4" src="https://user-images.githubusercontent.com/94028277/211458336-e5f0d29f-9618-4c97-9a0d-b9f4aee74958.png">
 
+### Roles for Responsibilities Task
+<br>
+| Role |  Person in charge | Responsibilities |
+|-----|----|----|
+| Project manager | Safinah | Project managers are responsible for projects from inception to completion, ensuring that the job is completed efficiently and satisfactorily. As project managers with ever-changing daily schedules, it would be challenging to come across a static project manager job description. Planning the project procedure, generating a budget, managing a staff, and engaging with clients can fill the days. 
+
+Text Recognition Project will need to the project manager in charge of project planning, execution, monitoring, and control. It is expected that project managers would deliver projects on time, within budget, and within scope while maintaining communication with all team members. Beginning to end, project managers are involved in multiple aspects of the project's progress. The project manager is responsible for ensuring that all initiation and planning documents, including the Work Breakdown Structure (WBS) and Gantt chart Text recognition Project, are produced in a clear and comprehensive manner.|
+| Procurement Manager | Adeeba | Text Recognition The Project Procurement Manager is responsible for organising and negotiating with suppliers for low-cost and high-quality production materials. Project Procurement Managers strategize strategies to offer outputs inside the required financial constraints and timetables. Project Manager should be assigned so they can kick off the procurement project. This involves meeting the initial stakeholders to discuss the procurement's scope and objectives, as well as the project's high-level objectives and timetable. Procurement manager also Creating the Procurement Plan for establishing a thorough procurement plan is a key function the Project Manager plays to set expectations and connect stakeholders. An efficient procurement strategy involves not only the process for acquiring the goods, technology, or services but also the post-procurement activities required to seamlessly transition into the company operations. The transition plan may not come until after a vendor/solution is picked, but it’s a key aspect of the overall success of the project as that’s where the rubber hits the road.
+
+Text Recognition Project Procurement manager evaluate agreements and finalize terms and agreements to collaborate services to clients accurately and efficiently. A Project Procurement Manager uses data and statistical research to uncover business prospects that would create more revenue resources and boost profits.|
+
+
+
+
+
+
+
+
 <br><br><br>
 ##### Next: [Project Implementation](C-PROJECT_IMPLEMENTATION.md)
