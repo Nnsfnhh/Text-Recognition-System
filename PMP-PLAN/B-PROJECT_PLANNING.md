@@ -49,6 +49,7 @@ A work breakdown structure (WBS) is created to map all the necessary tasks and d
 | Executive Steering Committee | Tan Wen Xiang | The Executive Steering Committee acts as the Project stakeholders group, ensuring that the deliverables and functionality of the project are achieved as defined in the project initiation documents and subsequent project management plans. This committee provides high-level project direction, receives project status updates, and addresses and resolves issues, risks, or change requests. <br><br>Furthermore, Executive Steering Committee needs to make decisions concerning our financial management of the project. He measure the progress against the specific objectives, milestones and deliverables of each work page. |
 | Office of Technology Services (OTech) Representative | Quek Yao Jing | The OTech Representative acts as the liaison between the Project Office and the OTech in defining required services, assisting the project in determining the feasibility of services, cost estimates, planning, and other technical assistance to aid the project in making informed data center decisions.<br><br>This role is important as its will help our company to determine which technology and stack is important. After determine the technology stack and requirement, we can only check the risk management and assessibility. Therefore, OTech is very important to make sure correct technology stack and cost in a company. |
 
+<br><br>
 
 
 
