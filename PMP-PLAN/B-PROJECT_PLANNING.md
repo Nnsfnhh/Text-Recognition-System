@@ -29,6 +29,16 @@ A work breakdown structure (WBS) is created to map all the necessary tasks and d
 <img width="1000" alt="RAM_3" src="https://user-images.githubusercontent.com/94028277/211458302-495c0634-99ee-407f-b416-5041e1c50530.png">
 <img width="1000" alt="RAM_4" src="https://user-images.githubusercontent.com/94028277/211458336-e5f0d29f-9618-4c97-9a0d-b9f4aee74958.png">
 
+
+### Risk Identification Chart (Quality, Cost, Time)
+
+| Control Element |  What is likely to go wrong? | How and when will I know? | What will I do about it? | 
+|-----|----|----|----|
+|Quality<br><br>(Poor attitude toward quality; substandard design, materials, and workmanship; inadequate quality assurance program)| 1.	The procedure is not entirely exact; some errors were produced when using the method.<br><br>2.	During this procedure, the image quality may be lost.| How: The output result always segmented the wrong part of the Text Recognition<br><br>When:The quality issue will be identified during the phase of unit testing.| Assign one member to continue daily data collection and grow the dataset until a satisfactory result is achieved.|
+
+
+
+
 ### Roles for Responsibilities Task
 <br>
 
