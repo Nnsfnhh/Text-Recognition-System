@@ -31,12 +31,14 @@ A work breakdown structure (WBS) is created to map all the necessary tasks and d
 
 ### Roles for Responsibilities Task
 <br>
-|Roles|<div style="width: 150px"> Person In Charge </div>|Responsibilities|
-|:-----:|:------:|------|
-| Project Manager | Quek Yao Jing |The Project Manager is accountable to the Project Director for all the project office management related activities. The Project Manager plans, guides, and oversees the day-to-day internal activities that support the Project Office, and assists in the development of the master project schedule and all other project work plans. Car Plate Recognition Project will need to the project manager to identify who we can propose our idea to and who are probably going to accept our idea. Project Manager also need to check and make sure all the initiation and planning documents such as Work Breakdown Structure (WBS) and Gantt chart are constructed in a clear and complete form. <br><br> The Project Manager is accountable for the development, maintenance, and adherence to the Project Office infrastructure and supporting methodologies (e.g. processes, procedures, standards, and templates) that are in compliance with OSI Best Practices and policies. Car Plate Recognition Project also needs to keep on monitor the project in making sure that the progress follows the project scope and requirement. The project manager needs to work on the corrective action if any problem occur.|
-<br>
-| Procurement Manager | Tan Wen Xiang | The Procurement Manager oversees and manages the generation of the RFP or RFO and other solicitation documents. Other areas of the project office may be assigned responsibility for specific sections, but the Procurement Manager is responsible for integrating all the pieces and ensuring consistency and continuity throughout the entire procurement process and conforming to procurement standards, rules, and regulations. This includes managing the RFP or RFO development, preparing and maintaining procurement schedule, coordinating contract negotiations and managing evaluation of proposals or offers and selection of vendor. <br><br> The procurement manager needs to negotiate the contract, policies and deadlines of the project with each of the members. Moreover, procurement manager needs to ensure that no staff can buy any stuffs related using company’s money. Every expense needs to be approved by procurement manager.
-  |                              |
+| Task |  Estimated Costs | Notes |
+|-----|----|----|
+|   Server Maintenance         |$24000                         |  Monthly Cloud Server      |      
+|   Construction supervision   |$30000                         | Supervision on the project | 
+|   Cultural resources         |$72000                         |  Investigate and evaluate undertaking                                                 |                              |
+|   Equipment and equipment use|$800                           | Equipment preparation and setup                                                       |                              |
+|   Project signs              |$400                           |  Installation of project signs     |                            |
+|   TOTAL                      |$127200                        |  Estimated     |                              |
 
 <br><br>
 
