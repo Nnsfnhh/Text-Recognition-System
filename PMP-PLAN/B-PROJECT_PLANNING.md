@@ -33,8 +33,8 @@ A work breakdown structure (WBS) is created to map all the necessary tasks and d
 <br>
 | Task |  Estimated Costs | Notes |
 |-----|----|
-|   a        |b                         |    
-|   a        |c                         |    
+|   a        |b                         |    c
+|   a        |c                         |    c
 <br><br>
 
 
