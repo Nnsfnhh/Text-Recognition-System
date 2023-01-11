@@ -5,9 +5,10 @@
 <br>
 
 #### 1. Customer Acceptance Form
-![image](https://user-images.githubusercontent.com/121034529/211873481-278ce66f-72d5-433e-912d-ae45d6e1beb5.png)
+![CUSTOMER ACCEPTANCE 2](https://user-images.githubusercontent.com/121034529/211885152-7b4fd6dc-9e7a-4612-bcf4-bc4f60960fa7.png)
 
 #### 2. Lessons Learned Document
+![Lesson Learned](https://user-images.githubusercontent.com/121034529/211885598-cfb53fd8-5730-486f-8da4-06483e841ff3.png)
 
 
 #### 3. Final Project Report
