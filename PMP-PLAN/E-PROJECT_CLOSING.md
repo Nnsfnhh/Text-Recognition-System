@@ -5,11 +5,10 @@
 <br>
 
 #### 1. Customer Acceptance Form
-![CUSTOMER ACCEPTANCE 2](https://user-images.githubusercontent.com/121034529/211885152-7b4fd6dc-9e7a-4612-bcf4-bc4f60960fa7.png)
+![CUSTOMER ACCEPTANCE 2](https://user-images.githubusercontent.com/121034529/211892813-c9155c9f-91b2-4ed3-a173-596c587f82d5.jpg)
 
 #### 2. Lessons Learned Document
-![Lesson Learned](https://user-images.githubusercontent.com/121034529/211885598-cfb53fd8-5730-486f-8da4-06483e841ff3.png)
-
+![Lesson Learned](https://user-images.githubusercontent.com/121034529/211892548-cbc3aefd-d98a-4551-b2db-529d5b280ff3.jpg)
 
 #### 3. Final Project Report
 **TEXT RECOGNITION SYSTEM**
@@ -50,7 +49,7 @@ The project scope was initiated from the beginning of the project. For instance,
 
 **5.3 IMPACTS**
 
-By creating this system, the efficiency will be improved and accuracy of medical record keeping. Medical records contain a lot of text data, including patient information, diagnosis, and treatment plans. With a text classification system, this information can be automatically organized and indexed, making it easier for doctors and nurses to access and understand patient records. Additionally, the system can be trained to identify specific information, such as symptoms, allergies and test results, which can help to streamline the diagnostic process and ensure that patients receive the appropriate care.As a result, these systems can have a significant impact on improving patient outcomes and reducing healthcare costs in hospitals.
+By creating this system, ability to automate the process of capturing data from printed and written documents. In a hospital setting, this can include everything from patient charts and medical records, to test results and prescription orders. By automating this process, text recognition systems can help to reduce errors and save time for hospital staff, which can result in improved patient care.Another area where text recognition systems can have a positive impact in hospitals is in the field of medical billing. Text recognition systems can be used to automatically extract and process information from insurance claims and other financial documents, which can help to streamline the billing process and reduce the number of errors that occur.In conclusion, text recognition systems can have a significant positive impact on the healthcare industry, particularly in hospitals
 
 **6.0 TRANSITION PLAN**
 
