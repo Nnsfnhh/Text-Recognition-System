@@ -66,6 +66,7 @@ iv) Report information to senior management on monthly basis
 
 
 #### 4. Close Contract
+![CLOSE CONTRACT](https://user-images.githubusercontent.com/121034529/211901577-dfa7ca3c-0fe7-46c8-8d26-d2b1e6f5891e.jpg)
 
 
 
