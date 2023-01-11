@@ -21,7 +21,7 @@ Our text recognition system, also known as optical character recognition (OCR) s
 ### Objectives:
 + To develop an artificial intelligence system that are able to detect and recognize character of the text.
 + To develop a system that are able to streamlining workflow of the document management .
-+ To develop an application programming interface (API) for the future ease of use as the integration module.
++ To develop an application that seamlessly integrates with electronic health records (EHR) systems.
 
 <br><br><br>
 ##### Next: [Project Planning](B-PROJECT_PLANNING.md)
