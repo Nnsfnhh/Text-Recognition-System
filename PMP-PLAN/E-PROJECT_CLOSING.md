@@ -45,6 +45,7 @@ The actual budget matches the original budget, which means that the team has fol
 The project scope was initiated from the beginning of the project. For instance, the system is not able to detect unique text that does not follow the rules set by the government. Unique text that cannot be recognise includes text that are reflective, and also text with special fonts. The system also scopes down the limit of the project by only detect alphabet and number character. Therefore, this system may not be used by countries like China or Thailand, which includes Thai and Mandarin in their text.
 
 **5.2 OBJECTIVES**
+
 Ravenclaw Inc Company managed to achieve the objectives initialized since the beginning of the project. A system that is artificial intelligence powered, which uses deep-learning technique has been made. Deep learning is used in this project to identify the location of the text on the image and also read the characters on the text. Besides, FAST API is used to implement the python program that are used to recognise the text into a html website. By using this method, our objective of building an API in the system was met.
 
 **5.3 IMPACTS**
