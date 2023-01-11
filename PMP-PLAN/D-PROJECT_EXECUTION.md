@@ -8,6 +8,14 @@ Flowchart Design:
 
  Text Recognition Implementation Example
  
+ ### Description of the project coding and implementation
+Libraries and Packages required:
++ Numpy (1.13)
++ Tensorflow (1.4)
++ OpenCV (3.1)
++ Pandas (0.21)
++ Matplotlib (2.1)
+ 
  
  <br><br><br>
 ##### Next: [Project Closing](E-PROJECT_CLOSING.md)
