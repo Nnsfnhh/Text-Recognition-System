@@ -124,8 +124,7 @@ test/word_3.png A
 
 
 ## Acknowledgements
-This implementation has been based on these repository [crnn.pytorch](https://github.com/meijieru/crnn.pytorch), [ocr_attention](https://github.com/marvis/ocr_attention), and https://github.com/Nnsfnhh/deep-text-recognition-benchmark 
-
+This implementation has been based on these repository [crnn.pytorch](https://github.com/meijieru/crnn.pytorch), [ocr_attention](https://github.com/marvis/ocr_attention), https://github.com/Breta01/handwriting-ocr
 
 
 ## Links
