@@ -26,4 +26,6 @@ Project Closing indicate the end of the project lifecycle where the project need
 
 ##### Project Presentation: [Project Presentation](PMP-PLAN/F-PROJECT_PRESENTATION.md)
 Project Presentation shows the demonstration of the text recognition system that have developed . 
+
 ## Sample Result
+
