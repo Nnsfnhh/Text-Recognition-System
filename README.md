@@ -28,4 +28,6 @@ Project Closing indicate the end of the project lifecycle where the project need
 Project Presentation shows the demonstration of the text recognition system that have developed . 
 
 ## Sample Result
+![image](https://user-images.githubusercontent.com/121240811/211943092-bc6bdd9d-e8e9-4998-8b48-27bfe30857f0.png)
+![image](https://user-images.githubusercontent.com/121240811/211943125-5e60fbcb-cb9f-41d8-b490-b432efd8c288.png)
 
