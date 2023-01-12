@@ -22,12 +22,12 @@ However, it is worth mentioning that depending on the complexity of the document
 ### Tasks and Estimated Costs
 | Task |  Estimated Costs | Notes |
 |-----|----|----|
-|   Server Maintenance         |$24000                         |  Monthly Cloud Server      |      
-|   Construction supervision   |$30000                         | Supervision on the project | 
-|   Cultural resources         |$72000                         |  Investigate and evaluate undertaking                                                 |                              |
-|   Equipment and equipment use|$800                           | Equipment preparation and setup                                                       |                              |
-|   Project signs              |$400                           |  Installation of project signs     |                            |
-|   TOTAL                      |$127200                        |  Estimated     |                              |
+|   Server Maintenance         |RM1510                         |  Monthly Cloud Server      |      
+|   Construction supervision   |RM2000                         | Supervision on the project | 
+|   Cultural resources         |RM1200                         |  Investigate and evaluate undertaking                                                 |                              |
+|   Equipment and equipment use|RM2500                           | Equipment preparation and setup                                                       |                              |
+|   Project signs              |RM900                          |  Installation of project signs     |                            |
+|   TOTAL                      |RM8110                        |  Estimated     |                              |
 
 
 
